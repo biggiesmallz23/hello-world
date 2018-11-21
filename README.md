@@ -1,3 +1,3 @@
 # hello-world
-Learning projects \n
+Learning projects
 Here I upload code of scripts I create learning DevOps discipline
